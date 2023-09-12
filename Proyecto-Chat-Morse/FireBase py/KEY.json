@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chat-morse",
+  "private_key_id": "99f3786d95c2d2ecd81d7c199003df7596fc2d60",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCzaCA6L9G8aN2t\n401m5/zcrjEG3180Ia+uXOapmaGkM0MOlZPeS83K9MMLyxqOH4UrxJvfru+bcpQ4\nzfPTOgO7yjYKkWI4aC56f8FyBksdKrUM2Y8qiq85PcK04wDCpTRa1djPYTxgrvGO\nj9nP4Zcs07zeZ1nO3kXmJvolItDRbHJnb/Z1xVKJQnekHOnAsp+6vZRQRtOb4Q8S\nk7Z4nFPEr3A5yO2ONDM0J1Ox+v7Kg2qpwGhNwdFVCrUN9aUtklA1T/aGVCdKU/4X\nwZsrKihCfRUMAra8d6Z1oJ0x6Dje4uyiHCagfjLUceX0OSHvFQ2KmrhkPxvXupbD\n+lSgdYm1AgMBAAECggEALBc1vl8UrjdebZb8ZYMzgV+c5Gm+ib8SoCksNfewAjzn\n6LxpcfsSuSOEkNAqN033Sj2gKi2hrMQQudIhr2JlWwAz3k6DA0ZVT904Yye5S5J8\nmssX9HZPYGO1h4N3Yx67OmyuQy8MKd2st2LSfpScNNPXqZfgOiclqg2fscM36xOQ\nrnob5p+EH1mnzMCIPko0PkVcWqIrZRVm2FEW45FgCp6YVqZCyxBTMByJRR2eu0EF\nIYpFqk9Sk2y57lNYwUvC02dWKfRas4oUcMVhPY/3lRl2EV8kdug5GGgWswddnH+O\n4mDiQXIPOb326Dg1s3BAWrYNVBAirFYkr0U4D2cZeQKBgQDflwY8ogXQJU1NSJAg\nocEEmRQrVRVqKe+QQTy9pn1Wzyr6a2nGEvhuOpyAAvTmJIDfu6Ty06FBsYg7BJiq\nJWKVvmW56zFq4ifwu/ax/E+iztkrAkwHt6towll5WIKmSKA+hBFZDipEodPDNa6Y\nTcZ0/Fy2MlTXQvIkwtyFJYJwrQKBgQDNaY0pGLYhteq+h/g7cMj+wRv4qMGN4xVR\nkhnJdvleQcv0PyAXBYBboZ9fUmyraXGwwQQoiOGkCAV5HispgU1JQPBW0bubN47z\npc7YNWsurcsdfrKIqiYWnSFJJMd12BCVLAl3O08FNEF8DmeqnNp1XaybAqZJnLqq\nHPcN9qE2KQKBgQDEEk1O2IqeeEessShq5U49ePwd79QCsFm7t+nLKfgaKzw2NAGi\nyDoBd/aLr4wRUguNp6DDrOBpmoSrtKEn+/bS+A9/FYfVghOiYUK53Ff9nsUEmVQR\nJHj1OhF6fyq7JU8Y43nPDcP1QbBRLH86YmHZbwDiaYrK5pMvt43oWPdlVQKBgQCS\nYYi946VPSqN5mc3VFh+2JAl531Dnew8jLRmBT26PtBXS/fUxUrNRGVFIjaVxVdg2\nHKaI+FrMGQdFc7FQh5t6+3MKe7XU+/e8O8m2nALApgsb/sDd0VsJPHqO9E3L9eiD\nVXl9ZV9/luifrmhD1jl78ABkCrRTuwPu3GtWoQ3rWQKBgQCYkfDHFKPkVujg03rc\n2XcuNieh4Zbqfo3MbmveDVrhpsJUI6+7OcMnGw3CUKRhwA6hjx0JCeW+Swd0OpA/\nK9C9MZChQjrllVSEjL9+Yke5Ox+mfMjdtgKZXRsYpWrJ8Gd0jbtL0EP+ONxvT4vt\nLrI4oAsMDzBPiOaXYh+tyLD6WA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-eknjf@chat-morse.iam.gserviceaccount.com",
+  "client_id": "117070563987753737223",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-eknjf%40chat-morse.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
